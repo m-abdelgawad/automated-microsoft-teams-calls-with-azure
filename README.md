@@ -17,6 +17,7 @@
     <li><a href="#business-case">Business Case</a></li>
     <li><a href="#technical-solution">Technical Solution</a></li>
     <li><a href="#tech-stack">Tech Stack</a></li>
+    <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
 

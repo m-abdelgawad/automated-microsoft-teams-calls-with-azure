@@ -17,6 +17,7 @@
     <li><a href="#business-case">Business Case</a></li>
     <li><a href="#technical-solution">Technical Solution</a></li>
     <li><a href="#tech-stack">Tech Stack</a></li>
+    <li><a href="#feedback">Feedback</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
@@ -59,6 +60,11 @@ This project was developed using the following tech stack:
 * **Azure Cloud Services**
 * **Python**
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- CONTACT -->
+## Feedback
+<img src="readme_files/feedback.png">
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTACT -->
